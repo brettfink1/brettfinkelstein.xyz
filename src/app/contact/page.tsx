@@ -28,8 +28,8 @@ export default function ContactPage() {
     <div className="mx-auto max-w-3xl px-6 py-16 sm:px-8 sm:py-24">
       <h1 className="text-2xl font-semibold tracking-tight">Contact</h1>
       <p className="mt-2 text-muted">
-        Best way to reach me is email — happy to chat about roles, projects,
-        or anything else.
+        Best way to reach me is email — always happy to chat about roles,
+        projects, or anything else.
       </p>
       <div className="mt-10 flex flex-col gap-3">
         {links.map((link) => (
